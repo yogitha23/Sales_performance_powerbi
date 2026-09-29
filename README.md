@@ -206,7 +206,7 @@ Different shipping modes have different order volumes, sales contribution, and s
 ```text
 Sales_Performance_Analysis/
 │
-├── Sales_Performance_Dashboard.pbix
+├── Sales_Performance_dashboard.pbix
 ├── sales_analysis.sql
-├── Dashboard_Screenshot.png
+├── sales_dashboard.png.png
 └── README.md
