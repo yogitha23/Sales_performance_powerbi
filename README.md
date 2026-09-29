@@ -138,7 +138,7 @@ MySQL was used to perform business-oriented analysis, including:
 
 ## 📊 Power BI Dashboard
 
-![Dashboard Overview](Dashboard_Screenshot.png)
+![Dashboard Overview](sales_dashboard.png.png)
 
 The Power BI dashboard provides an interactive overview of sales performance.
 
